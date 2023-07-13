@@ -1,0 +1,21 @@
+country_event = {
+
+	id = 44000
+	news = yes
+	news_desc_long = "EVTDESC44000_NEWS_LONG"
+	news_desc_medium = "EVTDESC44000_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC44000_NEWS_SHORT"
+
+	is_triggered_only = yes
+
+	title = "EVTNAME44000"
+	desc = "EVTDESC44000"
+	picture = "leper"
+	
+	
+
+	option = {
+		name = "EVTOPTA44000" 
+		treasury = -100
+	}
+}

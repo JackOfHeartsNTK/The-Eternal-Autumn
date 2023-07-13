@@ -1,0 +1,6 @@
+name = "Short Spring Long Autumn"
+path = "mod/SSLA"
+user_dir = "SSLA"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"

@@ -1,0 +1,15 @@
+#Tokugawa substates
+substate = {
+	first = CHO
+	second = TOS
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = SEN
+	second = EZO
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
