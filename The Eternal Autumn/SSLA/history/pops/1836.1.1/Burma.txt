@@ -57,37 +57,37 @@
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 500
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 475
 	}
 
 	artisans = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 2350
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 3000
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 1000
 	}
 
 	farmers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 38700
 	}
@@ -101,31 +101,31 @@
 #Bassein (124000/31000 POPS)
 1331 = {
 	aristocrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 300
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 275
 	}
 
 	artisans = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 1350
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 300
 	}
 
 	farmers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 24775
 	}
@@ -211,49 +211,49 @@
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 850
 	}
 
 	bureaucrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 600
 	}
 
 	officers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 400
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 800
 	}
 
 	artisans = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 4000
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 3000
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 1000
 	}
 
 	farmers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 67300
 	}
@@ -297,37 +297,37 @@
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 500
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 500
 	}
 
 	artisans = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 2250
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 3000
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 1000
 	}
 
 	farmers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 38750
 	}
@@ -338,37 +338,37 @@
 #Ava (240000/70000 POPS)
 1334 = {
 	aristocrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 500
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 500
 	}
 
 	artisans = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 2400
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 3000
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 1000
 	}
 
 	farmers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 39600
 	}
@@ -436,49 +436,49 @@
 #Kyaukse (472000/118000 POPS)
 1335 = {
 	aristocrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 1150
 	}
 
 	bureaucrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 425
 	}
 
 	officers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 300
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 1125
 	}
 
 	artisans = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 5500
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 3000
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 1000
 	}
 
 	farmers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 100500
 	}
@@ -516,31 +516,31 @@
 #Magwe (120000/30000 POPS)
 1336 = {
 	aristocrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 325
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 300
 	}
 
 	artisans = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 1500
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 1100
 	}
 
 	farmers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 26875
 	}
@@ -548,31 +548,31 @@
 #Prome (240000/60000 POPS)
 1337 = {
 	aristocrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 625
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 625
 	}
 
 	artisans = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 3000
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 1100
 	}
 
 	farmers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 54850
 	}
@@ -583,43 +583,43 @@
 #Taunggye (416000/104000 POPS)
 1338 = {
 	aristocrats = {
-		culture = shan
+		culture = pyulander
 		religion = theravada
 		size = 900
 	}
 
 	bureaucrats = {
-		culture = shan
+		culture = pyulander
 		religion = theravada
 		size = 225
 	}
 
 	officers = {
-		culture = shan
+		culture = pyulander
 		religion = theravada
 		size = 175
 	}
 
 	clergymen = {
-		culture = shan
+		culture = pyulander
 		religion = theravada
 		size = 850
 	}
 
 	artisans = {
-		culture = shan
+		culture = pyulander
 		religion = theravada
 		size = 4250
 	}
 
 	soldiers = {
-		culture = shan
+		culture = pyulander
 		religion = theravada
 		size = 850
 	}
 
 	farmers = {
-		culture = shan
+		culture = pyulander
 		religion = theravada
 		size = 61750
 	}
@@ -675,31 +675,31 @@
 #Lashio (264000/66000 POPS)
 1340 = {
 	aristocrats = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 500
 	}
 
 	clergymen = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 500
 	}
 
 	artisans = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 2500
 	}
 
 	soldiers = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 500
 	}
 
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 46000
 	}
@@ -918,31 +918,31 @@
 	}
 
 	aristocrats = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 250
 	}
 
 	clergymen = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 250
 	}
 
 	artisans = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 1200
 	}
 
 	soldiers = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 250
 	}
 
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 21050
 	}
@@ -1307,5 +1307,55 @@
 		size = 1950
 	}
 
+}
+
+3277 = {
+	aristocrats = {
+		culture = burmese
+		religion = theravada
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = burmese
+		religion = theravada
+		size = 50
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = theravada
+		size = 375
+	}
+
+	artisans = {
+		culture = burmese
+		religion = theravada
+		size = 5250
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = theravada
+		size = 250
+	}
+
+	farmers = {
+		culture = burmese
+		religion = theravada
+		size = 10825
+	}
+	
+	artisans = {
+		culture = thai
+		religion = theravada
+		size = 1000
+	}
+
+	farmers = {
+		culture = thai
+		religion = theravada
+		size = 5000
+	}
 }
 

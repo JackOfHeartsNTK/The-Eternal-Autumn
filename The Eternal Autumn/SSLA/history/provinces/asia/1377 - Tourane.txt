@@ -1,5 +1,5 @@
-owner = DAI
-controller = DAI
-add_core = DAI
+owner = CHM
+controller = CHM
+add_core = CHM
 trade_goods = tobacco
 life_rating = 35

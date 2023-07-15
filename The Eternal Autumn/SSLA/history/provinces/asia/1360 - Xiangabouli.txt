@@ -1,6 +1,6 @@
-owner = SIA
-controller = SIA
-add_core = SIA
+owner = DVA
+controller = DVA
+add_core = DVA
 add_core = WIA
 add_core = LUA
 trade_goods = tropical_wood

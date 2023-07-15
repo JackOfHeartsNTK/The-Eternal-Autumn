@@ -694,7 +694,7 @@ BUR_1330 = { 1330 1331 1332 1345 } #Pegu
 
 BUR_1334 = { 1334 1335 1336 1337 1333 } #Shan States - Yadanabon - Mandaly
 
-BUR_1339 = { 1339 1341 1342 } #Kachin
+BUR_1339 = { 1339 1341 1342 3280 3281 } #Kachin
 
 ENG_1343 = { 1343 1344 1320 3264 } #Tenasserim
 

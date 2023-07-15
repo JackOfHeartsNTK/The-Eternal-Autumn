@@ -1632,8 +1632,18 @@ southeast_asian = {
 	
 		}
 	}
-	mon_indochinese = {
-		color = {217 71 68}
+	pyulander = {
+		color = {217 171 68}
+		first_names = { Ang Sisowath Norodom Pok Satha Thommo
+	
+		}
+	
+		last_names = { Eng Chan Em Snguon Mey Reachea Tong Non
+	
+		}
+	}
+	mon_eastern = {
+		color = {187 71 68}
 		first_names = { Ang Sisowath Norodom Pok Satha Thommo
 	
 		}
@@ -1652,6 +1662,26 @@ southeast_asian = {
 
 		}
 	}
+	katuic = {
+		color = {229 105 71}
+		first_names = { Ang Sisowath Norodom Pok Satha Thommo
+	
+		}
+	
+		last_names = { Eng Chan Em Snguon Mey Reachea Tong Non
+	
+		}
+	}
+	bahnaric = {
+		color = {230 130 50}
+		first_names = { Ang Sisowath Norodom Pok Satha Thommo
+	
+		}
+	
+		last_names = { Eng Chan Em Snguon Mey Reachea Tong Non
+	
+		}
+	}
 	asli = {
 		color = {208 144 0}
 		first_names = { Ang Sisowath Norodom Pok Satha Thommo
@@ -1662,6 +1692,11 @@ southeast_asian = {
 	
 		}
 	}
+	nicobarese = {
+        color = { 0 161 222 }
+        first_names = { Ti-Toorou Ti-Quatchium Kaoua Kanendjo Samuel Ti-Abel Seru Epenisa Tamavunisa Yavala Ralulu Raivalita Rasolo Lubati Taltai Eroni }
+        last_names = { Hortense Vendegou Cakobau Cokanauto Qaraniqio Banuve Loganimoce Tupou Lakeba }
+    }
 	malay = {
 		color = {85 78 89}
 		first_names = { Shahabuddin Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz

@@ -1,5 +1,5 @@
-owner = KAR
-controller = KAR
-add_core = KAR
+owner = PYU
+controller = PYU
+add_core = PYU
 trade_goods = tropical_wood
 life_rating = 35

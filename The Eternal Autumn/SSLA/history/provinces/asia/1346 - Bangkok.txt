@@ -1,6 +1,6 @@
-owner = SIA
-controller = SIA
-add_core = SIA
+owner = DVA
+controller = DVA
+add_core = DVA
 trade_goods = grain
 life_rating = 42
 terrain = bangkok

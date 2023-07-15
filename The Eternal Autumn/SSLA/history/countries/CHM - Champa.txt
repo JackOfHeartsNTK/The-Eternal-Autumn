@@ -1,6 +1,5 @@
 capital = 1380
-primary_culture = malay
-culture = yue
+primary_culture = cham
 religion = sunni
 government = hms_government
 plurality = 0.0

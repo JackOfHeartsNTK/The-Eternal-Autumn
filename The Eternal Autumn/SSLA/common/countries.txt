@@ -560,6 +560,8 @@ YNN		="countries/Yunnan.txt"
 XBI		="countries/Xibei San Ma.txt"
 XIN		="countries/Xinjiang.txt"
 CHM		="countries/Champa.txt"
+PYU		="countries/Pyuland.txt"
+DVA		="countries/Dvaravati.txt"
 
 # North America
 CAL		="countries/Californian Republic.txt"

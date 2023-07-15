@@ -3596,19 +3596,19 @@
 #Nicobar Islands
 3264 = {
 	clergymen = {
-		culture = asian_minor
+		culture = nicobarese
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = nicobarese
 		religion = animist
 		size = 500
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = nicobarese
 		religion = protestant
 		size = 100
 	}

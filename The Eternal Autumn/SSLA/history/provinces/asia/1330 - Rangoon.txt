@@ -1,5 +1,6 @@
-owner = KAR
-controller = KAR
+owner = PYU
+controller = PYU
+add_core = PYU
 add_core = KAR
 trade_goods = grain
 life_rating = 35

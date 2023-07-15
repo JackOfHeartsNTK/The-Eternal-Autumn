@@ -163,38 +163,38 @@
 	}
 
 	aristocrats = {
-		culture = vietnamese
-		religion = mahayana
+		culture = bahnaric
+		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = vietnamese
-		religion = mahayana
+		culture = bahnaric
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = vietnamese
-		religion = mahayana
+		culture = bahnaric
+		religion = animist
 		size = 125
 	}
 
 	soldiers = {
-		culture = vietnamese
-		religion = mahayana
+		culture = bahnaric
+		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = mahayana
+		culture = bahnaric
+		religion = animist
 		size = 2750
 	}
 
 	slaves = {
-		culture = vietnamese
-		religion = mahayana
+		culture = bahnaric
+		religion = animist
 		size = 2000
 	}
 }

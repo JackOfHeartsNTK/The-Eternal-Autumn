@@ -290,8 +290,8 @@ LIT_liberal_2;Lietuvos Valstieciu Liaudininku Sajunga;;;;;;;;;;;;x
 LIT_socialist;LSDP;;;;;;;;;;;;x
 LIT_communist;Lietuvos Komunistu Partija;;;;;;;;;;;;x
 LIT_fascist;Lietuvos Šauliu Sajunga;;;;;;;;;;;;x
-KAR;Pyuland;;;;;;;;;;;;x
-KAR_ADJ;Pyulander;;;;;;;;;;;;x
+KAR;Karenland;;;;;;;;;;;;x
+KAR_ADJ;Karenni;;;;;;;;;;;;x
 BRY;Buryatia;;;;;;;;;;;;x
 BRY_ADJ;Buryat;;;;;;;;;;;;x
 BRY_conservative;Royal Faction;;;;;;;;;;;;x
@@ -396,9 +396,9 @@ MCK_fascist_dictatorship;Yushui Dominion;Manchukuo;Manchukuo;;;;;;;;;;;x
 MCK_presidential_dictatorship;Dongbei Clique;;;;;;;;;;;;;x
 MCK_ADJ;Fuyuren;Mandchou;Manchu;;;;;;;;;;;x
 MCK_presidential_dictatorship_ADJ;Dongbeiren;;;;;;;;;;;;;x
-SIA_absolute_monarchy;Dvaravati-Tolopoti;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
-SIA_prussian_constitutionalism;The Kingdom of Dvaravati;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
-SIA_hms_government;The Kingdom of Dvaravati;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+SIA_absolute_monarchy;Rattanakosin Kingdom;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+SIA_prussian_constitutionalism;The Kingdom of Siam;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+SIA_hms_government;The Kingdom of Thailand;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 KML;Kumul Khanate;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 KML_democracy;Kumul Republic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 KML_bourgeois_dictatorship;Kumul;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
@@ -3293,3 +3293,5 @@ emishi;Emishi;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BUR;Bagan;;;;;;;;;;;;x,
 CAM;Chenla-Funan;;;;;;;;;;;;x,
 CHM;Champa;;;;;;;;;;;;x,
+PYU;Pyu Confederacy;;;;;;;;;;;;x,
+DVA;Dvaravati;;;;;;;;;;;;x,
