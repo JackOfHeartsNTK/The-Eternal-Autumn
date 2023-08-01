@@ -1612,6 +1612,17 @@ southeast_asian = {
 		}
 		radicalism = 5
 	}
+	highlandviet = {
+		color = {43 159 52}
+		first_names = { "Nguyen Phuoc" "Ton That" "Noang Cao" "Bui An" Nguyen Truong Tran 
+			
+		}
+		
+		last_names = { "vinh Thuy" Han Tuan "Vinh San" Cuong Khai Nien Than Quang "Trong Hiep" "Mien Lam" "Mien Trinh" "Buu Lan"
+               
+		}
+		radicalism = 5
+	}
 	khmer = {
 		color = {220 86 34}
 		first_names = { Ang Sisowath Norodom Pok Satha Thommo 
@@ -1622,6 +1633,18 @@ southeast_asian = {
                
 		}
 	}
+	
+	highlandkhmer = {
+		color = {250 46 74}
+		first_names = { Ang Sisowath Norodom Pok Satha Thommo 
+			
+		}
+		
+		last_names = { Eng Chan Em Snguon Mey Reachea Tong Non
+               
+		}
+	}
+	
 	cham = {
 		color = {176 49 97}
 		first_names = { Shahabuddin Riayat Abdullah Jacushitic Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz
@@ -1663,7 +1686,7 @@ southeast_asian = {
 		}
 	}
 	katuic = {
-		color = {229 105 71}
+		color = {229 85 71}
 		first_names = { Ang Sisowath Norodom Pok Satha Thommo
 	
 		}

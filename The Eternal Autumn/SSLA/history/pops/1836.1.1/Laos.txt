@@ -3,45 +3,87 @@
 #Luang Prabang (240000/60000 POPS) #asian_minor = hmong/montagnard  
 1356 = {
 	aristocrats = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 800
+		size = 400
 	}
 
 	bureaucrats = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 75
+		size = 37
 	}
 
 	officers = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 100
+		size = 50
 	}
 
 	clergymen = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 425
+		size = 212
 	}
 
 	artisans = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 2150
+		size = 1075
 	}
 
 	soldiers = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 1100
+		size = 550
 	}
 
 	farmers = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 37940
+		size = 19000
+	}
+
+	aristocrats = {
+		culture = highlandviet
+		religion = theravada
+		size = 400
+	}
+
+	bureaucrats = {
+		culture = highlandviet
+		religion = theravada
+		size = 37
+	}
+
+	officers = {
+		culture = highlandviet
+		religion = theravada
+		size = 50
+	}
+
+	clergymen = {
+		culture = highlandviet
+		religion = theravada
+		size = 212
+	}
+
+	artisans = {
+		culture = highlandviet
+		religion = theravada
+		size = 1075
+	}
+
+	soldiers = {
+		culture = highlandviet
+		religion = theravada
+		size = 550
+	}
+
+	farmers = {
+		culture = highlandviet
+		religion = theravada
+		size = 19000
 	}
 
 	aristocrats = {
@@ -83,33 +125,63 @@
 #Vientiane (88000/22000 POPS)   
 1357 = {
 	aristocrats = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 250
+		size = 150
 	}
 
 	clergymen = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 150
+		size = 80
 	}
 
 	artisans = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 750
+		size = 400
 	}
 
 	soldiers = {
-		culture = lao
+		culture = thai
+		religion = theravada
+		size = 300
+	}
+
+	farmers = {
+		culture = thai
+		religion = theravada
+		size = 18000
+	}
+	
+	aristocrats = {
+		culture = highlandviet
 		religion = theravada
 		size = 150
 	}
 
-	farmers = {
-		culture = lao
+	clergymen = {
+		culture = highlandviet
 		religion = theravada
-		size = 13700
+		size = 80
+	}
+
+	artisans = {
+		culture = highlandviet
+		religion = theravada
+		size = 400
+	}
+
+	soldiers = {
+		culture = highlandviet
+		religion = theravada
+		size = 300
+	}
+
+	farmers = {
+		culture = highlandviet
+		religion = theravada
+		size = 18000
 	}
 
 	aristocrats = {
@@ -151,33 +223,63 @@
 #Savannakhet (80000/20000 POPS)   
 1361 = {
 	aristocrats = {
-		culture = lao
+		culture = highlandkhmer
 		religion = theravada
-		size = 250
+		size = 125
 	}
 
 	clergymen = {
-		culture = lao
+		culture = highlandkhmer
 		religion = theravada
-		size = 150
+		size = 75
 	}
 
 	artisans = {
-		culture = lao
+		culture = highlandkhmer
 		religion = theravada
-		size = 750
+		size = 375
 	}
 
 	soldiers = {
-		culture = lao
+		culture = highlandkhmer
 		religion = theravada
-		size = 150
+		size = 75
 	}
 
 	farmers = {
-		culture = lao
+		culture = highlandkhmer
 		religion = theravada
-		size = 13700
+		size = 7000
+	}
+
+	aristocrats = {
+		culture = highlandviet
+		religion = theravada
+		size = 125
+	}
+
+	clergymen = {
+		culture = highlandviet
+		religion = theravada
+		size = 75
+	}
+
+	artisans = {
+		culture = highlandviet
+		religion = theravada
+		size = 375
+	}
+
+	soldiers = {
+		culture = highlandviet
+		religion = theravada
+		size = 75
+	}
+
+	farmers = {
+		culture = highlandviet
+		religion = theravada
+		size = 7000
 	}
 
 	aristocrats = {
@@ -213,33 +315,63 @@
 #Salavan (168000/42000 POPS)   
 1362 = {
 	aristocrats = {
-		culture = lao
-		religion = theravada
-		size = 450
-	}
-
-	clergymen = {
-		culture = lao
+		culture = highlandviet
 		religion = theravada
 		size = 250
 	}
 
-	artisans = {
-		culture = lao
+	clergymen = {
+		culture = highlandviet
 		religion = theravada
-		size = 1200
+		size = 150
+	}
+
+	artisans = {
+		culture = highlandviet
+		religion = theravada
+		size = 700
 	}
 
 	soldiers = {
-		culture = lao
+		culture = highlandviet
 		religion = theravada
-		size = 1100
+		size = 700
 	}
 
 	farmers = {
-		culture = lao
+		culture = highlandviet
 		religion = theravada
-		size = 21096
+		size = 12000
+	}
+
+	aristocrats = {
+		culture = highlandkhmer
+		religion = theravada
+		size = 250
+	}
+
+	clergymen = {
+		culture = highlandkhmer
+		religion = theravada
+		size = 150
+	}
+
+	artisans = {
+		culture = highlandkhmer
+		religion = theravada
+		size = 700
+	}
+
+	soldiers = {
+		culture = highlandkhmer
+		religion = theravada
+		size = 700
+	}
+
+	farmers = {
+		culture = highlandkhmer
+		religion = theravada
+		size = 12000
 	}
 
 	aristocrats = {
@@ -282,33 +414,63 @@
 #Xaignabouli (64000/16000 POPS)   
 1360 = {
 	aristocrats = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 150
+		size = 75
 	}
 
 	clergymen = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 75
+		size = 37
 	}
 
 	artisans = {
-		culture = lao
+		culture = thai
 		religion = theravada
-		size = 400
+		size = 200
 	}
 
 	soldiers = {
-		culture = lao
+		culture = thai
+		religion = theravada
+		size = 37
+	}
+
+	farmers = {
+		culture = thai
+		religion = theravada
+		size = 4200
+	}
+
+	aristocrats = {
+		culture = highlandviet
 		religion = theravada
 		size = 75
 	}
 
-	farmers = {
-		culture = lao
+	clergymen = {
+		culture = highlandviet
 		religion = theravada
-		size = 8300
+		size = 37
+	}
+
+	artisans = {
+		culture = highlandviet
+		religion = theravada
+		size = 200
+	}
+
+	soldiers = {
+		culture = highlandviet
+		religion = theravada
+		size = 37
+	}
+
+	farmers = {
+		culture = highlandviet
+		religion = theravada
+		size = 4200
 	}
 
 	aristocrats = {
@@ -344,31 +506,31 @@
 #Pakse (60000/15000 POPS)   
 1363 = {
 	aristocrats = {
-		culture = lao
+		culture = khmer
 		religion = theravada
 		size = 275
 	}
 
 	clergymen = {
-		culture = lao
+		culture = khmer
 		religion = theravada
 		size = 150
 	}
 
 	artisans = {
-		culture = lao
+		culture = khmer
 		religion = theravada
 		size = 750
 	}
 
 	soldiers = {
-		culture = lao
+		culture = khmer
 		religion = theravada
 		size = 125
 	}
 
 	farmers = {
-		culture = lao
+		culture = khmer
 		religion = theravada
 		size = 13700
 	}

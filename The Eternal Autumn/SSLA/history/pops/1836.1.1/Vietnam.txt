@@ -829,63 +829,63 @@
 #Quinhon (120000/30000 POPS)
 1379 = {
 	aristocrats = {
-		culture = cham
-		religion = mahayana
+		culture = bahnaric
+		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = cham
-		religion = mahayana
+		culture = bahnaric
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = cham
-		religion = mahayana
+		culture = bahnaric
+		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = cham
-		religion = mahayana
+		culture = bahnaric
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = cham
-		religion = mahayana
+		culture = bahnaric
+		religion = animist
 		size = 5425
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = cham
+		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = cham
+		religion = sunni
 		size = 225
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = cham
+		religion = sunni
 		size = 1200
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
-		size = 250
+		culture = cham
+		religion = sunni
+		size = 1250
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
-		size = 21825
+		culture = cham
+		religion = sunni
+		size = 41825
 	}
 }
 #Cochinchina Region (1384000)
@@ -1077,31 +1077,31 @@
 #Hatien (172000/43000 POPS)
 1382 = {
 	aristocrats = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 300
 	}
 
 	clergymen = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 125
 	}
 
 	artisans = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 700
 	}
 
 	soldiers = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 150
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 12725
 	}
@@ -1131,7 +1131,7 @@
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = bahnaric
 		religion = animist
 		size = 6000
 	}
@@ -1140,31 +1140,31 @@
 #Vinhlong (120000/30000 POPS)
 1383 = {
 	aristocrats = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 300
 	}
 
 	clergymen = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 125
 	}
 
 	artisans = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 700
 	}
 
 	soldiers = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 1100
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 11875
 	}

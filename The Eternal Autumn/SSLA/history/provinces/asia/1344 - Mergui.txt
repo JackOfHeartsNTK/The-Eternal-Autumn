@@ -1,6 +1,6 @@
 owner = EIC
 controller = EIC
-add_core = KAR
+add_core = PYU
 trade_goods = fish
 life_rating = 31
 colonial = 2

@@ -3,57 +3,63 @@
 #Rangoon (344000/86000 POPS)
 1330 = {
 	aristocrats = {
-		culture = karen
-		religion = theravada
-		size = 200
-	}
-
-	clergymen = {
-		culture = karen
-		religion = theravada
-		size = 250
-	}
-
-	artisans = {
-		culture = karen
-		religion = theravada
-		size = 1200
-	}
-
-	soldiers = {
-		culture = karen
-		religion = theravada
-		size = 250
-	}
-
-	farmers = {
-		culture = karen
-		religion = theravada
-		size = 12000
-	}
-
-	aristocrats = {
-		culture = asian_minor #Mon
+		culture = mon_eastern
 		religion = theravada
 		size = 100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = mon_eastern
 		religion = theravada
-		size = 150
+		size = 125
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = mon_eastern
 		religion = theravada
-		size = 1100
+		size = 600
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = mon_eastern
 		religion = theravada
-		size = 150
+		size = 120
+	}
+
+	farmers = {
+		culture = mon_eastern
+		religion = theravada
+		size = 7000
+	}
+
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 100
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 125
+	}
+
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 600
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 120
+	}
+
+	farmers = {
+		culture = tamil
+		religion = hindu
+		size = 7000
 	}
 
 	aristocrats = {
@@ -127,87 +133,69 @@
 	farmers = {
 		culture = pyulander
 		religion = theravada
-		size = 24775
-	}
-
-	aristocrats = {
-		culture = asian_minor #Mon
-		religion = theravada
-		size = 25
-	}
-
-	clergymen = {
-		culture = asian_minor
-		religion = theravada
-		size = 75
-	}
-
-	artisans = {
-		culture = asian_minor
-		religion = theravada
-		size = 200
-	}
-
-	soldiers = {
-		culture = asian_minor
-		religion = theravada
-		size = 50
+		size = 26000
 	}
 }
 #Pegu (560000/140000 POPS)
 1332 = {
 	aristocrats = {
-		culture = karen
-		religion = theravada
-		size = 400
+		culture = tamil
+		religion = hindu
+		size = 200
 	}
 
 	clergymen = {
-		culture = karen
-		religion = theravada
-		size = 500
+		culture = tamil
+		religion = hindu
+		size = 250
 	}
 
 	artisans = {
-		culture = karen
-		religion = theravada
-		size = 2400
+		culture = tamil
+		religion = hindu
+		size = 1200
 	}
 
 	soldiers = {
-		culture = karen
-		religion = theravada
-		size = 500
+		culture = tamil
+		religion = hindu
+		size = 250
 	}
 
 	farmers = {
-		culture = karen
-		religion = theravada
-		size = 24200
+		culture = tamil
+		religion = hindu
+		size = 14000
 	}
 
 	aristocrats = {
-		culture = asian_minor #Mon
+		culture = mon_eastern
 		religion = theravada
-		size = 100
+		size = 200
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = mon_eastern
 		religion = theravada
-		size = 150
+		size = 250
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = mon_eastern
 		religion = theravada
-		size = 850
+		size = 1200
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = mon_eastern
 		religion = theravada
-		size = 150
+		size = 250
+	}
+
+	farmers = {
+		culture = mon_eastern
+		religion = theravada
+		size = 14000
 	}
 
 	aristocrats = {
@@ -267,31 +255,31 @@
 #Toungoo (308000/77000 POPS)
 1333 = {
 	aristocrats = {
-		culture = karen
+		culture = pyulander
 		religion = theravada
 		size = 300
 	}
 
 	clergymen = {
-		culture = karen
+		culture = pyulander
 		religion = theravada
 		size = 325
 	}
 
 	artisans = {
-		culture = karen
+		culture = pyulander
 		religion = theravada
 		size = 1600
 	}
 
 	soldiers = {
-		culture = karen
+		culture = pyulander
 		religion = theravada
 		size = 350
 	}
 
 	farmers = {
-		culture = karen
+		culture = pyulander
 		religion = theravada
 		size = 29425
 	}
@@ -1001,203 +989,185 @@
 #Moulmein (272000/68000 POPS)
 1343 = {
 	aristocrats = {
-		culture = karen
+		culture = mon_eastern
 		religion = theravada
 		size = 400
 	}
 
 	clergymen = {
-		culture = karen
+		culture = mon_eastern
 		religion = theravada
 		size = 350
 	}
 
 	artisans = {
-		culture = karen
+		culture = mon_eastern
 		religion = theravada
 		size = 1100
 	}
 
 	soldiers = {
-		culture = karen
+		culture = mon_eastern
 		religion = theravada
-		size = 300
+		size = 1300
 	}
 
 	farmers = {
-		culture = karen
+		culture = mon_eastern
 		religion = theravada
-		size = 30650
+		size = 32050
 	}
 	
-	farmers = {
-		culture = karen
-		religion = protestant
-		size = 300
-	}
-
 	aristocrats = {
-		culture = asian_minor #Mon
-		religion = theravada
+		culture = tamil #formerly asian minor representing Mon
+		religion = hindu
 		size = 200
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = theravada
+		culture = tamil
+		religion = hindu
 		size = 375
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = theravada
+		culture = tamil
+		religion = hindu
 		size = 1375
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = theravada
+		culture = tamil
+		religion = hindu
 		size = 250
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 100
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 75
 	}
 
 	artisans = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 1500
 	}
 
 	bureaucrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
-		size = 100
+		size = 125
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 150
 	}
 
 	farmers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 5075
-	}
-
-	bureaucrats = {
-		culture = british
-		religion = protestant
-		size = 25
 	}
 }
 #Mergui (332000/83000 POPS)
 1344 = {
 	aristocrats = {
-		culture = karen
-		religion = theravada
+		culture = tamil
+		religion = hindu
 		size = 400
 	}
 
 	clergymen = {
-		culture = karen
-		religion = theravada
+		culture = tamil
+		religion = hindu
 		size = 375
 	}
 
 	artisans = {
-		culture = karen
-		religion = theravada
+		culture = tamil
+		religion = hindu
 		size = 1100
 	}
 
 	soldiers = {
-		culture = karen
-		religion = theravada
+		culture = tamil
+		religion = hindu
 		size = 400
 	}
 
 	farmers = {
-		culture = karen
-		religion = theravada
-		size = 34525
+		culture = tamil
+		religion = hindu
+		size = 35025
 	}
 	
-	farmers = {
-		culture = karen
-		religion = protestant
-		size = 300
-	}
-
 	aristocrats = {
-		culture = thai
+		culture = mon_eastern #formerly thai
 		religion = theravada
 		size = 100
 	}
 
 	clergymen = {
-		culture = thai
+		culture = mon_eastern
 		religion = theravada
 		size = 200
 	}
 
 	artisans = {
-		culture = thai
+		culture = mon_eastern
 		religion = theravada
 		size = 1250
 	}
 
 	soldiers = {
-		culture = thai
+		culture = mon_eastern
 		religion = theravada
 		size = 200
 	}
 
 	farmers = {
-		culture = thai
+		culture = mon_eastern
 		religion = theravada
-		size = 17250
+		size = 24250
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 350
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 300
 	}
 
 	artisans = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 2000
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 300
 	}
 
 	farmers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
-		size = 23050
+		size = 16050
 	}
 	
 	farmers = {
@@ -1211,102 +1181,71 @@
 #Under rule of Britain 1836
 #Sittwe (176000/44000 POPS)
 1345 = {
-	bureaucrats = {
-		culture = british
-		religion = protestant
-		size = 10
-	}
-
 	aristocrats = {
-		culture = burmese
+		culture = bengali
 		religion = sunni
-		size = 100
+		size = 110
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = bengali
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = burmese
+		culture = bengali
 		religion = sunni
 		size = 2750
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = bengali
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = burmese
+		culture = bengali
 		religion = sunni
-		size = 14875
+		size = 17000
 	}
 
 	aristocrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 50
 	}
 
 	clergymen = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 375
 	}
 
 	artisans = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 6250
 	}
 
 	soldiers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
 		size = 250
 	}
 
 	farmers = {
-		culture = burmese
+		culture = pyulander
 		religion = theravada
-		size = 15825
+		size = 17025
 	}
-
-	clergymen = { 
-		culture = asian_minor #Chin
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = asian_minor
-		religion = animist
-		size = 950
-	}
-
-	clergymen = {
-		culture = bengali
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = bengali
-		religion = sunni
-		size = 1950
-	}
-
 }
 
 3277 = {

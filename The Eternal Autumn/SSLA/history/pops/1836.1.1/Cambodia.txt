@@ -69,7 +69,7 @@
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 2675
 	}
@@ -119,13 +119,13 @@
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 1475
 	}
 
 	slaves = {
-		culture = vietnamese
+		culture = cham
 		religion = mahayana
 		size = 3000
 	}
@@ -202,43 +202,43 @@
 #Battambang (152000/48000 POPS)
 1366 = {
 	aristocrats = {
-		culture = thai
+		culture = mon_eastern
 		religion = theravada
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = thai
+		culture = mon_eastern
 		religion = theravada
 		size = 50
 	}
 
 	officers = {
-		culture = thai
+		culture = mon_eastern
 		religion = theravada
 		size = 75
 	}
 
 	clergymen = {
-		culture = thai
+		culture = mon_eastern
 		religion = theravada
 		size = 25
 	}
 
 	artisans = {
-		culture = thai
+		culture = mon_eastern
 		religion = theravada
 		size = 50
 	}
 
 	soldiers = {
-		culture = thai
+		culture = mon_eastern
 		religion = theravada
 		size = 50
 	}
 
 	farmers = {
-		culture = thai
+		culture = mon_eastern
 		religion = theravada
 		size = 725
 	}

@@ -612,15 +612,6 @@ vassal = {
 	end_date = 1949.1.1
 }
 
-
-#Cambodia - Luang Prabang
-vassal = {
-	first = CAM
-	second = LUA
-	start_date = 1807.1.1
-	end_date = 1949.1.1
-}
-
 ##########################China
 #China - Tannu Tuva
 vassal = {

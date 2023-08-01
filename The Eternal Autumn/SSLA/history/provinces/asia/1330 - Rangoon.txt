@@ -1,7 +1,6 @@
 owner = PYU
 controller = PYU
 add_core = PYU
-add_core = KAR
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {
